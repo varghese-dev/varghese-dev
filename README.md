@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **varghese-dev/varghese-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Github Stats
+--------
+<img src="https://github-readme-stats.vercel.app/api?username=varghese-dev&show_icons=true&count_private=true">
