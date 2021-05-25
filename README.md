@@ -15,9 +15,8 @@
 
 - 💬  Ask me about **Angular, Ionic**
 
-## Github
 
-### Current Project 
+## Current Project 
 [Expense Tracker](https://github.com/expenses-tracker)
 
 **Why Expense Tracker?**
@@ -26,5 +25,5 @@ An easy to do project to begin with and to help me learn and explore new technol
 
 ----
 
-### Some stats
+## Some stats
 <img src="https://github-readme-stats.vercel.app/api?username=varghese-dev&show_icons=true&count_private=true">
